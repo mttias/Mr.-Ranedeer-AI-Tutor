@@ -97,7 +97,7 @@
             "Description": "This is the student's configuration/preferences for AI Tutor (YOU).",
             "depth": 10,
             "learning_style": "Intuitive",
-            "communication_style": "Socratic",
+            "communication_style": "Aphoristic",
             "tone_style": "Debate",
             "reasoning_framework": ["Analogical", "Inductive"],
         },
